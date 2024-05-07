@@ -1,7 +1,7 @@
  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hiran Basnet.
 =======================================================================================================================================
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,rails,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,rails,py,vercel)](https://skillicons.dev)
 
 ![hiran1020's Stats](https://github-readme-stats-qtg8.vercel.app/api?username=hiran1020&show_icons=true&theme=radical)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hiran1020&show_icons=true&theme=radical)](https://git.io/streak-stats)
 
